@@ -39,8 +39,8 @@ VALUES
 (6, 33, 2, 'Patrick', '2017-01-06' ),
 (7, 26, 3, 'Vivian', '2018-01-05' ),
 (8, 19, 3, 'Carol', '2018-02-14' ),
-(9, 42, 4, 'Angelina', '2018-04-29' ),
-(10, 46, 4, 'Paul', '2017-01-17' );
+(9, 42, 2, 'Angelina', '2018-04-29' ),
+(10, 46, 2, 'Paul', '2017-01-17' );
 
 CREATE TABLE IF NOT EXISTS `SpotifyClone`.`artista` (
   `idartista` INT NOT NULL AUTO_INCREMENT,
